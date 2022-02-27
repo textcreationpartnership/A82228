@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the Protestant army in the province of Munster (of the Kingdom of Ireland) under the command of the Right Honourable the Lord Baron of Inchiquine, Lord President of the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82228</idno>
+            <idno type="STC">Wing D755</idno>
+            <idno type="STC">Thomason E452_10</idno>
+            <idno type="STC">ESTC R204857</idno>
+            <idno type="EEBO-CITATION">99864313</idno>
+            <idno type="PROQUEST">99864313</idno>
+            <idno type="VID">116540</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116540)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E452[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the Protestant army in the province of Munster (of the Kingdom of Ireland) under the command of the Right Honourable the Lord Baron of Inchiquine, Lord President of the same.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Cork, and re-printed at Edinburgh (by order of the Committee of Estates)by Evan Tyler, printer to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: April, 1648.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116540:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE PROTESTANT ARMY In the Province of <hi>Munſter</hi>(of the Kingdom of <hi>IRELAND</hi>)</p>
+            <p>
+               <hi>Under the Command of the Right Honourable the Lord Baron of</hi> Inchiquine, <hi>Lord Preſident of the ſame.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+            </figure>
+            <p>Printed at <hi>Cork,</hi> and Re-printed at <hi>Edinburgh</hi> (by order of the Com<g ref="char:EOLhyphen"/>mittee of Eſtates) by <hi>Evan Tyler,</hi> Printer to the KINGS moſt Excellent MAJESTY, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116540:2"/>
+            <head>THE DECLARATION OF THE PROTESTANT ARMY In the Province of <hi>Munſter.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE faireſt actions are obvious to detraction; virtue it ſelf hath many Enemies through ignorance, We expect not to ſilence the reports of evil ſpeakers; thars aſmuch beſide our aim, as beyond our Power: But to give a clear underſtanding to the unprejudica<g ref="char:EOLhyphen"/>ted Readers, that our preſent undertakings are no<g ref="char:EOLhyphen"/>thing deviating from our firſt principles, and our conſtant profeſſion, is the ſole ambition of our deſires; wherein we doubt not but to prevail if we may obtain the allowable favour of an equall Juſti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</p>
+            <p>We have formerly teſtified unto the world by our conſtant ſuffer<g ref="char:EOLhyphen"/>ings in this Cauſe, and ſedulous indeavours in the ſervice how firmly we ſtood devoted to the obedience of the King and Parliament in the proſecution of the Common Enemy, againſt whom, the ſeveral ſuc<g ref="char:EOLhyphen"/>ceſſes where with our weak attempts have been ſeconded, hath aſwell teſtified the divine Providence over us, as attracted the approbation of men upon our actions, untill a growing party of <hi>Independency</hi> ſprung up in the Houſes and Army; who finding an unaptneſſe in us to receive the impreſſion of their deſignes, have on that conſideration contrived our ſubverſion. In order whereunto they had no ſooner pre<g ref="char:EOLhyphen"/>vailed to place the Lord <hi>Liſle</hi> in the Lieutenancy of this Kingdom, but in ſhort time there was advanced 180000. pound for the ſervice there<g ref="char:EOLhyphen"/>of; a ſurn ſo conſiderable, that had it been effectually imployed to the uſe whereunto it was deſigned, might have reduced moſt of this King<g ref="char:EOLhyphen"/>dom
+<pb facs="tcp:116540:2"/>to obedience but 10. Moneths of 12. being ſpent on prepara<g ref="char:EOLhyphen"/>tions, and the moneys detained, leaſt ſhould come to our unconfi<g ref="char:EOLhyphen"/>ding hands, whiles our Souldiers ſtarved in the ſtreets; the Lord <hi>Liſle</hi> in <hi>February</hi> 1646. arrives with 25000. pound of the aforeſaid ſum, which with the whole contribution of the Countrey was exhauſted in eight weeks ſpace, 5000. pound in money, and a few proviſions one<g ref="char:EOLhyphen"/>ly excepted; the onely ſervices performed by the expence of ſo much treaſure, were the taking of <hi>Cork, Kinſale</hi> and <hi>Younghall</hi> out of thoſe hands who had long and faithfully hold them for the ſervice of the King and Parliament, and placing in them confidents of their own, to ſecure unto themſelves their own reſolutions, which were ſo fixed upon the ſuppreſſion of both King and Parliament, as that they endea<g ref="char:EOLhyphen"/>voured to poſtpone a Commiſsion (from both) under the broad Seal of <hi>England</hi> to a Paper-warrant of their own; and howbeit to give countenance, and enforce obedience to that new contrived Authority they had drawn the head Garriſon into Armes, loaden their Muskets with Powder and Ball, ſhut up the Ports, and drawn in part of the Lord <hi>Broghels</hi> Regiment of Horſe to the Lord Preſidents door, yet finding the Officers generally (a few particularly obliged perſons one<g ref="char:EOLhyphen"/>ly excepted) to adhere unto the Parliaments Authority in the Lord Preſidents perſon, and nothing moved with their apparition of force, they deſiſted from further proſecution of that deſigne, and departed the Kingdom, giving teſtimony of the good affections they had for the ſervice thereof, upon their landing, by labouring to foment a Petition amongſt the Horſe-Forces then lying ready at the water-ſide to im<g ref="char:EOLhyphen"/>barque for this Province, whereby they deſired to decline this Service, unleſſe under the Command of ſome of their Faction. But that (with many other) proving to weak a practiſe to accelerate our ruine, they labour to retard or divert all Supplies for the carrying on this war; For the better accompliſhing whereof it bath been ſuggeſted; That the wants of this Army are not ſo great as they are frequently repreſented, but that here is a competency upon the place to ſupport us; though to take away that ſuppoſition (being of ſomewhat a long ſtanding) it hath been often moſt earneſtly deſired that a Committee might be ſent over to improve whatſoever may ariſe upon the place, and diſpoſe of what ſhall be tranſmitted thence; But as there is a ſuggeſted ſufficiency of means, ſo there is a ſuppoſed deficiency in the Officers which muſt
+<pb facs="tcp:116540:3"/>give ground to detain all ſupplies till they can be ſent by ſuch as have ſufficient prejudice to this Army. As a practiſe to this purpoſe we muſt neceſſarily look upon the endeavour uſed by ſome <hi>Independents</hi> to take off the reputation of our late ingagements with the Rebels at <hi>Knock-nonoſſe</hi> calling it (on the open Exchange) a project to draw on the ad<g ref="char:EOLhyphen"/>venturers (then convening to advance moneys for our relief) and for the greater diſparagement of the action, ſubſtracting from the number of the Rebels , both alive and ſlain, leaſt the conſiderableneſſe of the ſervice ſhould induce any proportionable relief, which the Houſes did not with more alacrity grant, then others laboured to retard: It could not otherwiſe be that of 10000. pound voted ſo long ſince, and revo<g ref="char:EOLhyphen"/>ted on the advertiſement of that action, there ſhould be onely 2500. li. advanced and remitted, or that of the Ordinance for 20000. pound <hi>per Menſ.</hi> voted four moneths ſince, and to continue but for ſix. We ſhould yet finde no effect, the paſsing of which Ordinance did not more comfort us with the contemplation of a ſetled competency, then with an expectation that the Levies made for us diſtinguiſhed from any mixture with other taxations, would come clearly and in<g ref="char:EOLhyphen"/>tirely to us without the accuſtomed miſapplication, whereby the relief of <hi>Ireland</hi> was made but a ſtale to collect great ſums by for other uſes; It being generally obſervable, and many of us eye-witneſſes thereof, that the Impoſitions laid in City and Countrey for the relief of this diſtreſſed Kingdom, were paid in with the greateſt alacrity and readi<g ref="char:EOLhyphen"/>neſſe of any other taxes, which occaſioned the name of our relief to be interwoven in all aſſeſſements.</p>
+            <p>We doubt nor but many will be ready to object an impoſſibility that any man can be ſo unchriſtian to obſtruct or divert the ſupplies of this bleeding Kingdom, to the ſupport whereof all ſo highly pretend; And yet the detaining moſt part of the train of Artillery with its Car<g ref="char:EOLhyphen"/>riages and Utencills, for which the Lord <hi>Liſles</hi> account ſtands charged with above 12000. pound, and for tranſportation whereof 1000. was impreſted to <hi>Sir John Veale,</hi> could not have paſſed with impunity if ſome did nor contrive the retarding the work of <hi>Ireland;</hi> The reproach<g ref="char:EOLhyphen"/>full full uſage of thoſe Gentlemen who in Conformity to the Ordinance of Parliament disbanded and ſubſcribed for the ſervice of <hi>Ireland;</hi> The ſuffering of many men deſirous to come for <hi>Ireland</hi> to lye upon free quarter in the Weſt, til they had eaten as much as would have maintain<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:116540:3"/>them here a twelve-moneth, and were at laſt diſbanded; The ſtrict courſe taken (by the interpoſition of ſome particular perſons) to de<g ref="char:EOLhyphen"/>prive us of all hope of relief from the ſhipping, by reprizals taken at Sea upon our Coaſts, and even in our Harbours mouthes (an expedi<g ref="char:EOLhyphen"/>ent that hath formerly often preſerved us in our greateſt exigencies) ſa<g ref="char:EOLhyphen"/>voureth of no mean indeavours to retard the relief of <hi>Ireland:</hi> And the words of a powerfull Member of the Army to a late ſervant of the Lord <hi>Liſles</hi> declaring our ſtarving condition for want of food and rayment. (That if we in <hi>Munſter</hi> were not poor enough, they would make us ſo) have been in a great meaſure verified; But we do the leſſe wonder that it ſhould be their indeavour to make us ſo, when we con<g ref="char:EOLhyphen"/>ſider the arguments raiſed by Colonell <hi>Lambert</hi> and others of the Ar<g ref="char:EOLhyphen"/>my, againſt the juſtice and lawfulneſſe of this war on our parts, and justifying the actions of the Rebels; it having been avouched to ſome of ourfaces, that the <hi>Engliſh</hi> intereſt were better in the hands of the Rebels then in ours: And there have not been wanting thoſe of the Lord <hi>Liſles</hi> own retinue, who have openly profeſſed that they made No deſtinction betwixt the Rebels and thoſe of the Proteſtant party which they found upon the place, his Lordſhips domeſtique Chap<g ref="char:EOLhyphen"/>pellain at the ſame time diffuſing words of the ſame ſence in the Pul<g ref="char:EOLhyphen"/>pit, whiles other Orthodox Divines were not admitted to preach: But we ſhall ſum up all their practiſes to obſtruct our relief, in this one inſtance of their late ſeizure upon the moneys brought in upon the Or<g ref="char:EOLhyphen"/>dinance of 20000. l. <hi>per Menſ.</hi> and taking the ſame out of the hands of our Treaſurers, ſo as that it may be feared that to have the war finiſhed here before the perfection of their deſignes in <hi>England,</hi> would prove to them the greateſt diſſatisfaction in the world, by means where<g ref="char:EOLhyphen"/>of many of our poor Souldiers have been already ſwept into a miſe<g ref="char:EOLhyphen"/>rable Grave; for whoſe lives as theſe men ſtand juſtly accomptable, ſo will it be difficult for them to be freed of the guilt of all that blood which hath been ſhed in the ſervice which but for their practiſes had been long ago forecloſed; and yet their, confidence is remarkable; for though theſe things have been viſibly practiſed in our eyes, yet we finde the cry raiſed aloud againſt the KING, the eleven Members, involving the Lord Preſident for obſtructing the Warre of <hi>Ireland;</hi> and the INDEPENDANTS putting on as ſo<g ref="char:EOLhyphen"/>ber
+<pb facs="tcp:116540:4"/>countenances, as if their hands were innocent of our blood, and that it were juſt that they ſhould paſſe by plauſibly unblameable; And for this end they make that Criminall in ſome, that they allow to be commendable in others: If we importune Relief, declare againſt In<g ref="char:EOLhyphen"/>novations in Government, profeſſe a readineſs to ſerve and obey the Parliament, we muſt at leaſt ſue forth an Act of Indempnity; and it is held for a ſpeciall lenity that two of our Officers were not executed on that ſcore. But if the Army in <hi>England</hi> refuſe to disband at the ap<g ref="char:EOLhyphen"/>pointment of an Ordinance of Parliament, or to obey the major Votes of the Houſes, and march up to the City of <hi>London</hi> with Banners diſplayed, it ſhall not onely be approved, but made penall to us, or any other that dare mention it with diſlike; though as being <hi>Engliſh<g ref="char:EOLhyphen"/>men</hi> and Subjects, we eſteem our intereſt and propriety in the Law of The Land, and liberty of the Subject, proportionably as good as theirs: Though theſe their private practiſes were ſufficiently notorious unto us, yet we were reſolved to ſtruggle with all difficulties, and to main<g ref="char:EOLhyphen"/>tain the Proteſtant intereſt in theſe parts ſucceſſively to the laſt man, rather then by any Ceſſation with the <hi>Iriſh,</hi> or otherwiſe to give a jea<g ref="char:EOLhyphen"/>louſie of forfeiting the leaſt truſt which was impoſed in us by chat au<g ref="char:EOLhyphen"/>thority which imployed us hither; while they continued in the Go<g ref="char:EOLhyphen"/>vernment, we would not decline our obedience for the greareſt hard<g ref="char:EOLhyphen"/>ſhips; But now at laſt diſcovering the reſolutions of our adverſaries to caſt off all obligations both to King and Parliament, rather then to fail in their intendments: We conceive we are obliged by the Law of God and of the Kingdom, not to aſſent unto their requirement whom Power, not Juſtice, hath ſeated n thoſe places of authority: It is, and was ever a main principle whereon all our reſolutions were groun<g ref="char:EOLhyphen"/>ded to contend for the ſafety of his Majeſties Perſon and Prerogative, for the Freedom &amp; Priviledge of Parliament, and liberty of the Subject, as they were inter woven, and had a clear and mutual dependency each upon other; &amp; it was long before we could entertain any ſuſpition of a deſign to engage us further, untill the practice of the <hi>Independents</hi> party grew more obnoxious, and that we ſaw his Majeſtie in effect depoſed, made priſoner to the cloſeſt confinement, the freedom of the Parlia<g ref="char:EOLhyphen"/>ment highly invaded &amp; their inclination &amp; aſſent to a Perſonal Treaty with his Majeſtie (the onely expedient of a happy Peace) made fru<g ref="char:EOLhyphen"/>ſtrate, by the over powring awe of the Army; the Liberty of the
+<pb facs="tcp:116540:4"/>Subject, and propriety of intereſt totally ſuppreſſed, and all other the genuine Immunities of that once glorious Nation, made arbitrary at the pleaſure and determination of the Armies dictations; and though while theſe things were in our eye and obſervation, we had ſtill quiet deſires of ſitting ſilent, and intent upon our own ingagement here, and the proſecution and conduct of our charge in this Kingdom, yet we came at laſt to diſcern, that if we would not be involved and ingaged in the ſame practiſes with thoſe who were reſolved to trample under foot, the ſubject matter of our Nationall League, that we ſhould be made partakers of their ruine, whom we had ſworn to ſupport; of which beſides other evidences, we had that ſignall Teſtimony of the Vice Admirals demand (in this Armies abſence in the field) of certain perſons committed to cloſe cuſtody for contriving the Armies ruine, of his blocking up our Harbours thereupon, and menacing us with a Declaration of being enemies to the State, and with the acceſſe of great Powers to ſuppreſs and ſuddenly ſwallow us up (though nothing con<g ref="char:EOLhyphen"/>ſiderable in twelve moneths ſpace came to ſupport the War againſt the Rebels) unleſſe we did declare thoſe who acted contrary to our and their own ingagements, of ſeducing and incouraging our fugitive and mutinous Souldiers abroad, for the accompliſhing the moſt wicked end of neceſsitating us, to ſubmit to Famine or Ceſſation with the <hi>Iriſh:</hi> All which we could not imagine he would preſume to act, without direction &amp; authority from that part of the Parliament which is ſoly guided by the pleaſure of the Army (for the doing whereof he now avoucheth Authority at the ſame time, that the Committee at <hi>Derby</hi> houſe aſſures us of the houſes confidence in our integrity,) And did therefore eſteem it abſolutely neceſſary, at a generall Rendezvous upon, our return out of the field, to declare and manifeſt our intentions and reſolutions to the Souldiery, as well to give them clear under<g ref="char:EOLhyphen"/>ſtanding of our intendments as to confirm them againſt the practices of ſeducers, againſt whoſe charmes we reſolve to arme our ſelves with theſe enſuing reſolutions: That we will not be involved by con<g ref="char:EOLhyphen"/>ſent or coopperation in any Actions which ſhal tend to the violation of our publick ingagements to the King and Parliament, nor proſtrate our ſelves to a miſguidance with thoſe who (with grief of heart) we ob<g ref="char:EOLhyphen"/>ſerve to be under the coercive inforcement of the <hi>Independent</hi> power, from which as we ſhall labour to reſtore them to their proper freedom,
+<pb facs="tcp:116540:5"/>ſo we ſhall not during their continuance under theſe preſſures, eſteem our ſelves obliged to the obſervance of any injunctions which by the uſurped Authority of the <hi>Independents</hi> they ſhall labour to lay upon us, under the notion of Parliament but by the enſuing Proteſtation do de<g ref="char:EOLhyphen"/>clare: Firſt, to improve our utmoſt endeavours for the ſettlement of the Proteſtant Religion according to the examp1e of the beſt Reform<g ref="char:EOLhyphen"/>ed Churches. Secondly, to defend the King in his Prerogatives. Third<g ref="char:EOLhyphen"/>ly, to maintain the Priviledges and freedom of the Parliament and the Liberty of the Subject; and that in order hereunto, we ſhall oppoſe to the hazard of our lives thoſe Rebels of this Kingdom who ſhall re<g ref="char:EOLhyphen"/>fuſe their obedience to his Majeſty, upon what terms ſoever he ſhall think fit to require it: And we ſhall endeavour to the utmoſt the ſuppreſsing of that Independent party, who have thus fiercely laboured the extirpation of the true Proteſtant Religion, the mine of our Prince, the diſhonour of our Parliament, and the Vaſſalidge of our Fellow-Subiects, againſt all thoſe who ſhall depend upon them or adhere unto them: And that this our undertaking might not appear obnoxious to the trade of <hi>England</hi> but that we deſire a firm union and agree<g ref="char:EOLhyphen"/>ment be preſerved betwixt us: We do likewiſe declare, that we will continue free Traffique and commerce, with all his Maieſties good Subiects of <hi>England:</hi> And that we will not in the leaſt manner preiudice any of them that ſhal have re<g ref="char:EOLhyphen"/>courſe to our Harbours either in their bodies, ſhips, or goods, nor ſhall we take any thing from them without payment of ready money for the ſame.</p>
+            <p>It may happily be judged by ſome as an Act of Imprudence that we ſhould take this unſeaſonable time for this Remonſtrance, wherein, the King himſelf is in confinement, his party nothing; the moderate party of the houſes (or moſt of them) either in retirement or baniſhment for the preſervation of their lives, and onely thoſe in power and authority againſt whoſe proceedings, we make this our publique Proteſtation: All which we cannot but with much ſorrow acknow<g ref="char:EOLhyphen"/>ledge to be too true, and that theſe inconveniences are to be reſiſted but not avoid<g ref="char:EOLhyphen"/>ed; Had we been aſſertained heretofore that th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir intentions were as now we find them, to introduce an Anarchy upon us , and by the diſtruction of the Funda<g ref="char:EOLhyphen"/>mentals of theſe Kingdoms to advance a Government of their own imaginati<g ref="char:EOLhyphen"/>ons, we had long ere this time approved our duty to King and Country by oppo<g ref="char:EOLhyphen"/>ſing them, which in all probabilites we might have done upon more advantagious terms both to our perſons and undertakings, had we not been drawn on in an ex<g ref="char:EOLhyphen"/>pectation of a fair compoſure of all differences, as not able to diſcern (beyond ſuſpition) the clear drift of their deſignes through thoſe various pretences which they put upon them, till they had gained the whole power of the Kingdom into their hands: Yet theſe difficulties muſt not be admitted into the ballance with ho<g ref="char:EOLhyphen"/>neſty; Though it may not come within the compaſs of our abilities to ſerve our King and Countrey as we would (which we ſhall never decline upon the leaſt oc<g ref="char:EOLhyphen"/>caſion) yet we deſire to approve our integrities to both by this manifeſt of our re<g ref="char:EOLhyphen"/>ſolution.</p>
+            <closer>
+               <dateline>
+                  <date>April, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
